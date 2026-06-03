@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# User Secrets
+secrets.json
+
+# Logs
+*.log
+logs/
+
+# Entregables separados
+Documentacion Tecnica.docx
+
+# OS
+.DS_Store
+Thumbs.db

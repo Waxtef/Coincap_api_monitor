@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Coincap.Alerts/Coincap.Alerts.csproj" />
+    <Project Path="src/Coincap.Assets/Coincap.Assets.csproj" />
+    <Project Path="src/Coincap.ExternalAPI/Coincap.ExternalAPI.csproj" />
+    <Project Path="src/Coincap.PriceHistory/Coincap.PriceHistory.csproj" />
+    <Project Path="src/Coincap.Share/Coincap.Share.csproj" />
+    <Project Path="src/Coincap.API/Coincap.API.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Coincap.Alerts.Tests/Coincap.Alerts.Tests.csproj" />
+    <Project Path="tests/Coincap.Assets.Tests/Coincap.Assets.Tests.csproj" />
+  </Folder>
+</Solution>

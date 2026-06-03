@@ -1,0 +1,6 @@
+@Coincap.API_HostAddress = http://localhost:5136
+
+GET {{Coincap.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
