@@ -35,7 +35,8 @@ dotnet user-secrets init
 dotnet user-secrets set "CoinCap:ApiKey" "TU_API_KEY_AQUI"
 
 # 4. Aplicar migraciones (crea coincap.db automáticamente)
-dotnet ef database update --project src/Coincap.API
+# Desde el Package Manager Console en Visual Studio:
+Update-Database -Project Coincap.API -StartupProject Coincap.API
 ```
 
 ## Cómo correr
