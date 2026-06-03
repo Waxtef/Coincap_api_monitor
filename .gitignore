@@ -22,6 +22,10 @@ logs/
 # Entregables separados
 Documentacion Tecnica.docx
 
+# Archivos temporales de Word y Windows
+~$*
+*.tmp
+
 # OS
 .DS_Store
 Thumbs.db
